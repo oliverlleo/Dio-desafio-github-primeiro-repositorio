@@ -1,4 +1,4 @@
-Funcionamento do Git 
+* Funcionamento do Git 
 
 -Working directory = Diretorio que você usa para trabalhar
 -Staging area = Esta no meio termo entre o working directory e localrepo, as alterações estão indicada para serem salva, mas nao foram salvas. 
