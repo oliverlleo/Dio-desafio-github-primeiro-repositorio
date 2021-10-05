@@ -1,0 +1,20 @@
+Funcionamento do Git 
+
+-Working directory = Diretorio que você usa para trabalhar
+-Staging area = Esta no meio termo entre o working directory e localrepo, as alterações estão indicada para serem salva, mas nao foram salvas. 
+-Localrepo = Onde fica salvo.
+
+
+
+Comandos Git
+
+-git init = Serve para criar um repositorio;
+-git add = inicia o versionamento;
+-git commit = cria um commit;
+-mkdir = cria uma pasta;
+-ls = lista o que tem na pasta;
+-ls -a = mostra os arquivos ocultos; 
+-git push = Envia as modificações;
+-git pull = pega essas modificações;
+-git clone = Atualiza o repositório local com as informações do repositório remoto.
+-git merge atualiza o diretório local com as mudanças feitas no diretório remoto
